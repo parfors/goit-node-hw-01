@@ -15,7 +15,7 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "comander": "^0.0.1-security",
+    "commander": "^9.4.1",
     "nanoid": "^3.3.4",
     "yargs": "^17.6.0"
   }
